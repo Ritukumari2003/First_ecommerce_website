@@ -1,7 +1,7 @@
 # 🛍️ First E-Commerce Website
 
 🔗 **Live Website:**  
-https://ritukumari2003.github.io/first_ecommerce_website/
+https://ritukumari2003.github.io/First_ecommerce_website/
 
 ---
 
