@@ -70,5 +70,10 @@ This was created as a **learning-based project** to understand real-world websit
 
 ---
 
-## 📂 Project Structure
+### Author
 
+** Ritu Kumari **
+🎓 MCA Student | Front-End Developer
+📍 India
+
+🔗 GitHub: https://github.com/ritukumari2003
